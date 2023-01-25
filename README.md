@@ -23,7 +23,8 @@ print(sol)
 ```
 
 ## Output:
-![output1](linear.png)
+![Screenshot 2023-01-25 152733](https://user-images.githubusercontent.com/118924713/214533839-2c826233-e7f7-41a9-ab1e-e1117a54398b.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
